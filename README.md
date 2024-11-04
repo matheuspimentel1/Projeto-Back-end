@@ -1,0 +1,1 @@
+Criação de uma API básica com express utilizando os 4 métodos: GET, POST, PUT e DELETE, simulando a adição, publicação e exclusão dos 5 livros da coleção Percy Jackson e os Olimpianos, do escritor Rick Riordan. 
